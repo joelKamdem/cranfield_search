@@ -4,7 +4,6 @@
     <extensionMap>
       <mapping pattern="draft" type="PLAIN_TEXT" />
       <mapping pattern="test1" type="PLAIN_TEXT" />
-      <mapping ext="md" type="PLAIN_TEXT" />
       <mapping ext="npy" type="PLAIN_TEXT" />
     </extensionMap>
   </component>
